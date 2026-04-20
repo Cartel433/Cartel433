@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://PascalTweaks.xyz"><img src="https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white"></a>
+  <a href="[https://youtube.com/@yourchannel](https://youtube.com/@z4vso?si=P_L2HEfHOEF64qmG)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
+  <a href="[https://twitter.com/yourhandle](https://x.com/PascalBaa)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://payhip.com/PASCALSERVICES"><img src="https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
