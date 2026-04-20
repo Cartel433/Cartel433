@@ -1,4 +1,4 @@
-<h1 align="center">Cartel433</h1>
+<h1 align="center">Pascal</h1>
 
 <p align="center">
   <img src="https://img.shields.io/twitch/status/your_twitch?style=flat&logo=twitch&label=TWITCH%20STATUS&color=9146FF">
